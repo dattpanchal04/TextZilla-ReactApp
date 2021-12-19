@@ -41,11 +41,8 @@ export default function TextForm(props) {
         props.showAlert("Text has been reversed successfully!", "success");
     }
     const handleCopyClick = ()=>{
-        let text = document.getElementById("mybox");
-        text.select();
-        navigator.clipboard.writeText(text.value);
+        navigator.clipboard.writeText(text);
         props.showAlert("Text copied!", "success");
-        document.getSelection().removeAllRanges();
     }
 
     const handleOnChange = (event)=> {
@@ -69,7 +66,7 @@ export default function TextForm(props) {
            </div>
            <div className="container">
                <h1>Your Texts Summery</h1>
-               <p>{text.split(" ").filter((element)=>{return element.length!==0}).length} words, {text.length} characters</p>
+               <p>{text.split(/\s+/).filter((element)=>{return element.length!==0}).length} words, {text.length} characters</p>
                <p>{0.008 * text.split(" ").filter((element)=>{return element.length!==0}).length} Minutes to Read</p>
                <h1>Preview</h1>
                <p>{text.length>0?text:"Nothing to preview!"}</p>
