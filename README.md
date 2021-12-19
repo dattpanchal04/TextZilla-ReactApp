@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# TextUtils - A React App
+
+I created my first react app which is TextUtils. It is created using react which is library or framework of the javascript. A text utilisation website where a user can optimize the way in which they want to use the paragraph.Removing particular pattern and apply different simple concepty to optimize the way we use the text. A TextUtils convert your text into uppercase, lowercase, removing extra spaces from your text, copy your text etc. So, checkout this amazing and usefull project.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Author
+
+- [@dattpanchal04](https://github.com/dattpanchal04)
 
 ## Available Scripts
 
@@ -68,3 +74,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## 🔗 Links
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dattpanchal04)
+
+
+## 🚀 About Me
+
+I'm datt from india. I'm Electronics & Communication ( EC ) Engineering Student. I'm 18 years old. I love to do coding in Python, C Programming, In Web-Development Languages like CSS & Javascript. So, this is brief indroduction about me. Thank you for visit !
+
+
+## 🛠 Skills
+
+- HTML, CSS & Javascript
+- Python Programming
+- C Programming
+- Coding In Git
+- Electronics Related Work
+
+
+## Feedback
+
+If you have any feedback, please send me at dattpanchal2904@gmail.com
