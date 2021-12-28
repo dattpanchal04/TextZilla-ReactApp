@@ -1,8 +1,8 @@
-# TextUtils - A React App
+# TextZilla - A React App
 
 ![Screenshot (115)](https://user-images.githubusercontent.com/94067118/147556613-3a72895e-acbb-40a8-9a71-a4576b57c0ab.png)
 
-I created my first react app which is TextUtils. It is created using react which is library or framework of the javascript. A text utilisation website where a user can optimize the way in which they want to use the paragraph.Removing particular pattern and apply different simple concepty to optimize the way we use the text. A TextUtils convert your text into uppercase, lowercase, removing extra spaces from your text, copy your text etc. So, checkout this amazing and usefull project.
+I created my first react app which is TextZilla. It is created using react which is library or framework of the javascript. A text utilisation website where a user can optimize the way in which they want to use the paragraph.Removing particular pattern and apply different simple concepty to optimize the way we use the text. A TextZilla convert your text into uppercase, lowercase, removing extra spaces from your text, copy your text etc. So, checkout this amazing and usefull project.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
