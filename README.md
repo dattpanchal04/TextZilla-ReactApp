@@ -4,6 +4,8 @@
 
 I created my first react app which is TextZilla. It is created using react which is library or framework of the javascript. A text utilisation website where a user can optimize the way in which they want to use the paragraph.Removing particular pattern and apply different simple concepty to optimize the way we use the text. A TextZilla convert your text into uppercase, lowercase, removing extra spaces from your text, copy your text etc. So, checkout this amazing and usefull project.
 
+I also published this react app on internet. Checkout [TextZilla.surge.sh](https://textzilla.surge.sh/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Author
